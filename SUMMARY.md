@@ -2,3 +2,7 @@
 
 * [编者序](README.md)
 
+## 遇到的坑 <a id="problems"></a>
+
+* [海康接口对接](problems/hai-kang-jie-kou-dui-jie.md)
+
