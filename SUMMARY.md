@@ -4,5 +4,5 @@
 
 ## 遇到的坑 <a id="problems"></a>
 
-* [海康接口对接](problems/hai-kang-jie-kou-dui-jie.md)
+* [海康接口对接](problems/hik.md)
 
