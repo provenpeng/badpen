@@ -1,2 +1,6 @@
-# badpen
-A good memory is not as good as a bad pen.
+# 编者序
+
+> 好记性不如烂笔头
+
+
+
